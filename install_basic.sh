@@ -3,8 +3,8 @@
 # necessary on a fresh bionic install
 sudo apt-get install git -y
 
-mkdir -p src
-cd src
+mkdir -p turtlebot
+cd turtlebot
 
 git clone https://github.com/turtlebot/turtlebot.git
 git clone https://github.com/turtlebot/turtlebot_msgs.git
